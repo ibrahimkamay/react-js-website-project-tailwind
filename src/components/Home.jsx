@@ -35,9 +35,9 @@ const Home = () => {
             {/*  hero text */}
             <div className="md:w-1/2">
               <h1 className="text-5xl font-semibold mb-4 text-neutralDGrey md:w-3/4 leading-snug">
-                Lessons and insights{" "}
+                Learn and Earn Money{" "}
                 <span className="text-brandPrimary leading-snug">
-                  from 8 years
+                  in 4 Months
                 </span>
               </h1>
               <p className="text-neutralGrey text-base mb-8">
